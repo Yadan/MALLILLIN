@@ -64,7 +64,7 @@
 <section class="profile">
         <img src="C:\Users\NEC\Documents\HTML/eme.jpg" alt="Profile Picture" width="150"> <!-- Fixed width attribute -->
     
-        <h1>Marvita M. Yadan</h1> <!-- Changed header content -->
+        <h1>Marvita M. Yadan</h1> 
 </section>
     <section>
         <h2>Personal Information</h2> <!-- Underlined "Personal Information" -->
