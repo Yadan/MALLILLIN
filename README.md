@@ -62,7 +62,7 @@
 </head>
 <body>
 <section class="profile">
-        <img src="./eme.png" alt="Profile Picture" width="150"> <!-- Fixed width attribute -->
+        <img src="./eme.jpg" alt="Profile Picture" width="150"> <!-- Fixed width attribute -->
     
         <h1>Marvita M. Yadan</h1> <!-- Changed header content -->
 </section>
